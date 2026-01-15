@@ -1,5 +1,7 @@
 # Meron Birhanu
 
+![Profile image](profile.jpg)
+
 meron10@uw.edu 
 
 http://www.example.com
